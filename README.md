@@ -1,66 +1,56 @@
-##📊 Análise de Vendas – Walmart (Loja 3)
-📌 Sobre o Projeto
+Perfeito 🔥
+Aqui está o README inteiro já formatado em Markdown, pronto para copiar e colar no GitHub:
 
-Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) utilizando um dataset público de vendas do Walmart.
+# 📊 Análise de Vendas – Walmart (Loja 3)
 
-O foco da análise foi a Loja 3, buscando identificar padrões de vendas, impacto de feriados e comportamento ao longo do tempo.
+## 📌 Sobre o Projeto
 
-🎯 Objetivos da Análise
+Este projeto tem como objetivo realizar uma **Análise Exploratória de Dados (EDA)** utilizando um dataset público de vendas do Walmart.
 
-Filtrar e analisar os dados da Loja 3
+O foco da análise foi a **Loja 3**, buscando identificar padrões de vendas, impacto de feriados e comportamento ao longo do tempo.
 
-Avaliar o comportamento das vendas semanais
+---
 
-Verificar o impacto de feriados (IsHoliday) nas vendas
+## 🎯 Objetivos da Análise
 
-Identificar padrões temporais nas vendas
+- Filtrar e analisar os dados da **Loja 3**
+- Avaliar o comportamento das **vendas semanais**
+- Verificar o impacto de **feriados (IsHoliday) nas vendas**
+- Identificar padrões temporais nas vendas
+- Extrair insights para apoio à tomada de decisão
 
-Extrair insights para apoio à tomada de decisão
+---
 
-🗂️ Estrutura do Dataset
+## 🗂️ Estrutura do Dataset
 
 O dataset contém as seguintes colunas:
 
-Store → Identificação da loja
+- **Store** → Identificação da loja  
+- **Dept** → Departamento  
+- **Date** → Data da venda  
+- **Weekly_Sales** → Vendas semanais  
+- **IsHoliday** → Indica se a semana corresponde a feriado (True/False)
 
-Dept → Departamento
+---
 
-Date → Data da venda
+## 🛠️ Tecnologias Utilizadas
 
-Weekly_Sales → Vendas semanais
+- Python  
+- Pandas  
+- Matplotlib  
+- Jupyter Notebook  
 
-IsHoliday → Indica se a semana corresponde a feriado (True/False)
+---
 
-🛠️ Tecnologias Utilizadas
+## 🔎 Etapas da Análise
 
-Python
-
-Pandas
-
-Matplotlib / Seaborn (se você usou, senão remove)
-
-Jupyter Notebook
-
-🔎 Etapas da Análise
-
-Importação e exploração inicial dos dados
-
-Filtragem dos dados para a Loja 3
-
-Tratamento e padronização da coluna de data
-
-Criação de novas colunas (ano e mês) para análise temporal
-
-Análise estatística descritiva das vendas (média, mediana, desvio padrão)
-
-Identificação do ano com maior volume de vendas
-
-Identificação do mês com maior volume de vendas
-
-Análise do impacto de feriados (IsHoliday) nas vendas
-
-Investigação dos possíveis fatores que explicam os períodos de maior faturamento
-
-Visualização gráfica do comportamento das vendas ao longo do tempo
-
-
+1. Importação e exploração inicial dos dados  
+2. Filtragem dos dados para a **Loja 3**  
+3. Tratamento e padronização da coluna de data  
+4. **Criação de novas colunas** (ano e mês) para análise temporal  
+5. Análise estatística descritiva das vendas (média, mediana, desvio padrão)  
+6. Identificação do **ano com maior volume de vendas**  
+7. Identificação do **mês com maior volume de vendas**  
+8. Análise do impacto de **feriados (IsHoliday)** nas vendas  
+9. Investigação dos possíveis fatores que explicam os períodos de maior faturamento  
+10. Visualização gráfica do comportamento das vendas ao longo do tempo
