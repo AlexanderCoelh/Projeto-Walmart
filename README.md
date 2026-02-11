@@ -1,4 +1,4 @@
-📊 Análise de Vendas – Walmart (Loja 3)
+##📊 Análise de Vendas – Walmart (Loja 3)
 📌 Sobre o Projeto
 
 Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) utilizando um dataset público de vendas do Walmart.
