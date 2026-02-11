@@ -33,8 +33,7 @@ O dataset contém as seguintes colunas:
 ## 🛠️ Tecnologias Utilizadas
 
 - Python  
-- Pandas  
-- Matplotlib  
+- Pandas    
 - Jupyter Notebook  
 
 ---
