@@ -1,6 +1,3 @@
-Perfeito 🔥
-Aqui está o README inteiro já formatado em Markdown, pronto para copiar e colar no GitHub:
-
 # 📊 Análise de Vendas – Walmart (Loja 3)
 
 ## 📌 Sobre o Projeto
